@@ -97,10 +97,6 @@
 
 ### GitHub Contributions
 
-<!--
-TODO: Enable a contribution-snake workflow in your profile repository if you want this graphic to display.
-The image URL below assumes the workflow publishes the SVG to the "output" branch.
--->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sabbircodeh083/sabbircodeh083/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
