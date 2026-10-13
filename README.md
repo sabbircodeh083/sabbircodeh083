@@ -1,21 +1,204 @@
-<h1 align="center">Hi 👋, I'm Mohammad Sabbir Sikder</h1>
-<h3 align="center">A passionate full Stack developer from Bangladesh</h3>
+```{=html}
+<!--
+TODO: Add your GitHub profile banner URL here.
+When ready, replace YOUR_BANNER_URL_HERE below with your banner image URL and uncomment the image tag.
+-->
+```
+```{=html}
+<!-- <img src="YOUR_BANNER_URL_HERE" alt="Mohammad Sabbir Sikder — GitHub Banner" width="100%" /> -->
+```
+`<br />`{=html}
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabbircodeh083" alt="sabbircodeh083" /></a> </p>
+::: {#user-content-toc}
+```{=html}
+<ul align="center">
+```
+```{=html}
+<summary>
+```
+```{=html}
+<h1>
+```
+Hi 👋, I'm Mohammad Sabbir Sikder
+```{=html}
+</h1>
+```
+```{=html}
+</summary>
+```
+`<a href="https://git.io/typing-svg">`{=html}
+`<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;JavaScript+%26+TypeScript+Enthusiast;Building+Practical+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />`{=html}
+`</a>`{=html}
+```{=html}
+</ul>
+```
+:::
 
-<h3 align="left">Connect with me:</h3>
+`<br />`{=html}
+
+## 👨‍💻 About Me
+
+-   👋 I'm **[Mohammad Sabbir
+    Sikder](https://github.com/sabbircodeh083)**, a full-stack developer
+    from Bangladesh.
+-   💻 I enjoy building web applications and exploring modern frontend
+    and backend technologies.
+-   🌱 I'm continuously improving my skills in **React, Next.js,
+    Node.js, TypeScript, and database development**.
+-   🧰 I work with technologies across the **frontend, backend,
+    databases, and development tools**.
+-   📄 **Resume:** `<!-- TODO: Add your resume URL here. -->`{=html}
+-   🤝 Let's connect and stay in touch on
+    **[LinkedIn](https://linkedin.com/in/mdsabbirh083)**.
+-   📝 Read my posts on **[DEV
+    Community](https://dev.to/sabbircodeh083)**.
+-   📫 You can also reach me through the social links below.
+
+`<br />`{=html}
+
+## 🌐 FOLLOW ME ON SOCIALS
+
+```{=html}
 <p align="left">
-<a href="https://linkedin.com/in/mdsabbirh083" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdsabbirh083" height="30" width="40" /></a>
-<a href="https://fb.com/md.sabbir.shikder.275883" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md.sabbir.shikder.275883" height="30" width="40" /></a>
-<a href="https://discord.gg/sabbir#7377" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sabbir#7377" height="30" width="40" /></a>
+```
+`<a href="https://linkedin.com/in/mdsabbirh083" target="_blank" rel="noreferrer">`{=html}
+`<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" />`{=html}
+`</a>`{=html}
+`<a href="https://dev.to/sabbircodeh083" target="_blank" rel="noreferrer">`{=html}
+`<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/devdotto.svg" alt="DEV Community" height="40" width="40" />`{=html}
+`</a>`{=html}
+`<a href="https://fb.com/md.sabbir.shikder.275883" target="_blank" rel="noreferrer">`{=html}
+`<img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" height="40" width="40" />`{=html}
+`</a>`{=html}
+`<a href="https://discord.gg/sabbir#7377" target="_blank" rel="noreferrer">`{=html}
+`<img src="https://skillicons.dev/icons?i=discord" alt="Discord" height="40" width="40" />`{=html}
+`</a>`{=html}
+```{=html}
 </p>
+```
+`<br />`{=html}
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+## 🛠️ TECHNOLOGY STACK
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabbircodeh083&show_icons=true&locale=en&layout=compact" alt="sabbircodeh083" /></p>
+### Languages
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabbircodeh083&show_icons=true&locale=en" alt="sabbircodeh083" /></p>
+[![Languages](https://skillicons.dev/icons?i=c,cpp,cs,java,php,python,html,css,javascript,typescript)](https://github.com/sabbircodeh083)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabbircodeh083&" alt="sabbircodeh083" /></p>
+### Frontend Frameworks & Libraries
 
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,bootstrap)](https://github.com/sabbircodeh083)
+
+### Backend & Runtime
+
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,dotnet,laravel,symfony)](https://github.com/sabbircodeh083)
+
+### Databases & Backend Services
+
+[![Databases](https://skillicons.dev/icons?i=mongodb,mysql,postgres,oracle,firebase)](https://github.com/sabbircodeh083)
+
+### Cloud, Deployment & DevOps
+
+[![Cloud and
+DevOps](https://skillicons.dev/icons?i=aws,docker,vercel,netlify,linux,ubuntu)](https://github.com/sabbircodeh083)
+
+### Tools & Design
+
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,figma)](https://github.com/sabbircodeh083)
+
+### Additional Technologies
+
+```{=html}
+<p>
+```
+`<img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white" alt="Solidity" />`{=html}
+`<img src="https://img.shields.io/badge/Hardhat-FCC72B?style=flat&logo=ethereum&logoColor=black" alt="Hardhat" />`{=html}
+`<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" alt="Selenium" />`{=html}
+`<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" />`{=html}
+```{=html}
+</p>
+```
+`<br />`{=html}
+
+## 📊 GITHUB STATISTICS & ANALYSIS
+
+### GitHub Contributions
+
+```{=html}
+<!--
+TODO: Enable a contribution-snake workflow in your profile repository if you want this graphic to display.
+The image URL below assumes the workflow publishes the SVG to the "output" branch.
+-->
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://raw.githubusercontent.com/sabbircodeh083/sabbircodeh083/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />`{=html}
+```{=html}
+</p>
+```
+### GitHub Stats & Top Languages
+
+```{=html}
+<table>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+`<img src="https://github-readme-stats.vercel.app/api?username=sabbircodeh083&show_icons=true&theme=swift&hide_border=true" alt="Sabbir's GitHub statistics" />`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+`<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbircodeh083&layout=compact&theme=swift&hide_border=true" alt="Sabbir's most-used languages" />`{=html}
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+</table>
+```
+### Contribution Streak
+
+```{=html}
+<p align="center">
+```
+`<img src="https://streak-stats.demolab.com/?user=sabbircodeh083&theme=swift&hide_border=true" alt="Sabbir's GitHub contribution streak" />`{=html}
+```{=html}
+</p>
+```
+`<br />`{=html}
+
+## 💡 RANDOM DEV QUOTE
+
+```{=html}
+<p align="center">
+```
+`<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light" alt="Random developer quote" />`{=html}
+```{=html}
+</p>
+```
+
+------------------------------------------------------------------------
+
+```{=html}
+<p align="left">
+```
+`<img src="https://komarev.com/ghpvc/?username=sabbircodeh083&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<i>`{=html}Thanks for visiting my profile! Feel free to explore my
+repositories and connect with me.`</i>`{=html}
+```{=html}
+</p>
+```
